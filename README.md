@@ -1,5 +1,5 @@
 # iot-vehicle-counter
-This repository contains the code and 3D models required to build a camera-enabled IoT vehicle counter device and its companion web application. Read the full project description and build tutorial on [Hackster.io](https://www.hackster.io/rhammell/predictive-maintenance-of-roads-using-an-iot-vehicle-counter-d28b21).
+This repository contains the code and 3D models required to build a camera-enabled IoT vehicle counter device and its companion web application. Read the [project guide](https://www.hackster.io/rhammell/predictive-maintenance-of-roads-using-an-iot-vehicle-counter-d28b21) on Hackster.io for a complete project description and build tutorial.
 
 ## Project Description
 This device and web application can be used in combination to monitor and analyze the amount of vehicle traffic a road receives, enabling traffic engineers to better determine when road maintenance will be needed.
